@@ -1303,3 +1303,253 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.27-23.16.42:970][391]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Bridge/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
 [2025.11.27-23.16.43:056][391]EditorErrors: Warning: No assets to check in!
 [2025.11.27-23.16.51:290][954]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.11.27-23.17.50:440][615]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.27-23.17.50:462][615]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.11.27-23.17.50:497][615]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/DANNY/source/repos/UnrealRepoTest/MyProject4/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.27-23.17.54:199][ 31]LogSlate: Window 'View Changes' being destroyed
+[2025.11.27-23.17.54:202][ 31]LogSlate: Window 'View Changes' being destroyed
+[2025.11.27-23.17.55:506][130]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.11.27-23.18.33:106][243]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.11.27-23.20.16:287][481]LogSlate: Window 'Revision Control Login' being destroyed
+[2025.11.27-23.20.19:239][778]LogSlate: Window 'View Changes' being destroyed
+[2025.11.27-23.20.19:243][778]LogSlate: Window 'View Changes' being destroyed
+[2025.11.27-23.20.26:966][666]LogSlate: Window 'View Changes' being destroyed
+[2025.11.27-23.20.26:969][666]LogSlate: Window 'View Changes' being destroyed
+[2025.11.27-23.20.35:564][668]LogAssetEditorSubsystem: Opening Asset editor for Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial
+[2025.11.27-23.20.35:574][668]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.11.27-23.20.35:579][668]LogStreaming: Display: FlushAsyncLoading(477): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.27-23.20.36:002][668]MaterialEditorStats: Texture samplers: 0/16
+[2025.11.27-23.20.36:002][668]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.11.27-23.20.36:002][668]MaterialEditorStats: Shader Count: 0
+[2025.11.27-23.20.36:002][668]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.11.27-23.20.36:012][668]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.11.27-23.20.36:114][670]MaterialEditorStats: Base pass shader: 177 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.11.27-23.20.36:114][670]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.11.27-23.20.36:114][670]MaterialEditorStats: Texture samplers: 1/16
+[2025.11.27-23.20.36:114][670]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.11.27-23.20.36:114][670]MaterialEditorStats: Shader Count: 5
+[2025.11.27-23.20.36:114][670]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.11.27-23.20.38:456][914]MaterialEditorStats: Texture samplers: 0/16
+[2025.11.27-23.20.38:456][914]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.11.27-23.20.38:456][914]MaterialEditorStats: Shader Count: 0
+[2025.11.27-23.20.38:456][914]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.11.27-23.20.38:528][917]MaterialEditorStats: Base pass shader: 177 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.11.27-23.20.38:528][917]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.11.27-23.20.38:528][917]MaterialEditorStats: Texture samplers: 1/16
+[2025.11.27-23.20.38:528][917]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.11.27-23.20.38:528][917]MaterialEditorStats: Shader Count: 5
+[2025.11.27-23.20.38:528][917]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.11.27-23.20.39:072][979]MaterialEditorStats: Texture samplers: 0/16
+[2025.11.27-23.20.39:072][979]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.11.27-23.20.39:072][979]MaterialEditorStats: Shader Count: 0
+[2025.11.27-23.20.39:072][979]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.11.27-23.20.39:129][982]MaterialEditorStats: Base pass shader: 177 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.11.27-23.20.39:129][982]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.11.27-23.20.39:129][982]MaterialEditorStats: Texture samplers: 1/16
+[2025.11.27-23.20.39:129][982]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.11.27-23.20.39:129][982]MaterialEditorStats: Shader Count: 5
+[2025.11.27-23.20.39:129][982]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.11.27-23.20.39:677][ 44]MaterialEditorStats: Texture samplers: 0/16
+[2025.11.27-23.20.39:677][ 44]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.11.27-23.20.39:677][ 44]MaterialEditorStats: Shader Count: 0
+[2025.11.27-23.20.39:677][ 44]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.11.27-23.20.39:738][ 47]MaterialEditorStats: Base pass shader: 177 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.11.27-23.20.39:738][ 47]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.11.27-23.20.39:738][ 47]MaterialEditorStats: Texture samplers: 1/16
+[2025.11.27-23.20.39:738][ 47]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.11.27-23.20.39:738][ 47]MaterialEditorStats: Shader Count: 5
+[2025.11.27-23.20.39:738][ 47]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.11.27-23.20.40:687][151]LogSlate: Window 'Color Picker' being destroyed
+[2025.11.27-23.20.40:693][151]MaterialEditorStats: Texture samplers: 0/16
+[2025.11.27-23.20.40:693][151]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.11.27-23.20.40:693][151]MaterialEditorStats: Shader Count: 0
+[2025.11.27-23.20.40:693][151]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.11.27-23.20.40:746][154]MaterialEditorStats: Base pass shader: 177 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.11.27-23.20.40:746][154]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.11.27-23.20.40:746][154]MaterialEditorStats: Texture samplers: 1/16
+[2025.11.27-23.20.40:746][154]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.11.27-23.20.40:746][154]MaterialEditorStats: Shader Count: 5
+[2025.11.27-23.20.40:746][154]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.11.27-23.20.42:667][367]LogMaterialEditor: Applying material BasicShapeMaterial
+[2025.11.27-23.20.42:751][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.11.27-23.20.47:761][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.11.27-23.20.47:845][367]MaterialEditorStats: Base pass shader: 177 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.11.27-23.20.47:845][367]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.11.27-23.20.47:845][367]MaterialEditorStats: Nanite Compute Shader: 804 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.11.27-23.20.47:845][367]MaterialEditorStats: Texture samplers: 1/16
+[2025.11.27-23.20.47:845][367]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.11.27-23.20.47:845][367]MaterialEditorStats: Shader Count: 41
+[2025.11.27-23.20.47:845][367]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.11.27-23.20.47:901][369]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Content/BasicShapes/BasicShapeMaterial.uasset: 'C:/Program Files/Epic Games/UE_5.6/Engine/Content/BasicShapes/BasicShapeMaterial.uasset' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.47:925][370]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Content/BasicShapes/BasicShapeMaterial.uasset: 'C:/Program Files/Epic Games/UE_5.6/Engine/Content/BasicShapes/BasicShapeMaterial.uasset' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.48:603][422]LogSlate: Window 'BasicShapeMaterial' being destroyed
+[2025.11.27-23.20.48:607][422]LogSlate: Window 'BasicShapeMaterial' being destroyed
+[2025.11.27-23.20.48:628][422]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.11.27-23.20.48:628][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-23.20.48:673][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.11.27-23.20.52:361][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.11.27-23.20.52:485][843]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Content/BasicShapes/BasicShapeMaterial.uasset: 'C:/Program Files/Epic Games/UE_5.6/Engine/Content/BasicShapes/BasicShapeMaterial.uasset' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.52:501][843]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.27-23.20.52:536][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BasicLevel" FILE="../../../../../../Users/DANNY/source/repos/UnrealRepoTest/MyProject4/Content/BasicLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.27-23.20.52:566][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.11.27-23.20.52:578][843]LogSavePackage: Moving output files for package: /Game/BasicLevel
+[2025.11.27-23.20.52:578][843]LogSavePackage: Moving '../../../../../../Users/DANNY/source/repos/UnrealRepoTest/MyProject4/Saved/BasicLevel6EBB92474B87A2D1CCE2C4B627DE9BC0.tmp' to '../../../../../../Users/DANNY/source/repos/UnrealRepoTest/MyProject4/Content/BasicLevel.umap'
+[2025.11.27-23.20.52:587][843]LogFileHelpers: Saving map 'BasicLevel' took 0.051
+[2025.11.27-23.20.52:588][843]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/BasicShapes/BasicShapeMaterial] ([1] browsable assets)...
+[2025.11.27-23.20.52:623][843]OBJ SavePackage:     Rendered thumbnail for [Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial]
+[2025.11.27-23.20.52:623][843]OBJ SavePackage: Finished generating thumbnails for package [/Engine/BasicShapes/BasicShapeMaterial]
+[2025.11.27-23.20.52:623][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/BasicShapeMaterial" FILE="../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" SILENT=true
+[2025.11.27-23.20.52:664][843]LogSavePackage: Moving output files for package: /Engine/BasicShapes/BasicShapeMaterial
+[2025.11.27-23.20.52:665][843]LogSavePackage: Moving '../../../../../../Users/DANNY/source/repos/UnrealRepoTest/MyProject4/Saved/BasicShapeMaterialB44CD5E6498DC6B2506110A3EF702CD7.tmp' to '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2025.11.27-23.20.52:673][843]LogFileHelpers: InternalPromptForCheckoutAndSave took 172.709 ms (total: 6.09 sec)
+[2025.11.27-23.20.52:722][843]LogContentValidation: Display: Starting to validate 2 assets
+[2025.11.27-23.20.52:722][843]LogContentValidation: Enabled validators:
+[2025.11.27-23.20.52:722][843]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.27-23.20.52:722][843]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.27-23.20.52:722][843]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.27-23.20.52:722][843]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.27-23.20.52:722][843]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.27-23.20.52:722][843]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.27-23.20.52:722][843]AssetCheck: /Game/BasicLevel Validating asset
+[2025.11.27-23.20.52:722][843]AssetCheck: /Engine/BasicShapes/BasicShapeMaterial Validating asset
+[2025.11.27-23.20.52:836][852]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Content/BasicShapes/BasicShapeMaterial.uasset: 'C:/Program Files/Epic Games/UE_5.6/Engine/Content/BasicShapes/BasicShapeMaterial.uasset' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:793][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:793][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:793][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:793][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:793][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/MetaHuman/MetaHumanSDK/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/MetaHuman/MetaHumanSDK/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:793][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:793][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Media/MediaPlate/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:793][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Interchange/Runtime/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:793][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Interchange/Assets/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Interchange/Assets/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:793][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:793][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/FX/NiagaraSimCaching/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/FX/NiagaraSimCaching/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:793][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/FX/Cascade/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/FX/Cascade/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:793][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:793][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Enterprise/GLTFExporter/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:793][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Developer/NamingTokens/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Developer/NamingTokens/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:793][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:793][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Cameras/GameplayCameras/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Cameras/GameplayCameras/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:793][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/TweeningUtils/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/TweeningUtils/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:793][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/RigLogic/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/RigLogic/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:793][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/SkeletalMeshModelingTools/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/SkeletalMeshModelingTools/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:793][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/IKRig/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRigModules/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRigModules/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRigSpline/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/DeformerGraph/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/DeformerGraph/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRig/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ACLPlugin/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ACLPlugin/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/WaveTable/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/StateTree/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/StateTree/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/ResonanceAudio/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/RigVM/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/RigVM/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/PropertyBindingUtils/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/PropertyBindingUtils/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/Metasound/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/HairStrands/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/AudioWidgets/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/VirtualProduction/CameraCalibrationCore/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/VirtualProduction/CameraCalibrationCore/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/NNE/NNEDenoiser/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/NNE/NNEDenoiser/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/MovieScene/SequencerScripting/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/ToolPresets/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/ToolPresets/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/GeometryFlow/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/GeometryDataflow/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/GeometryDataflow/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/FullBodyIK/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/EditorDataStorageFeatures/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/EditorDataStorageFeatures/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/EditorDataStorage/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/EditorDataStorage/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/Dataflow/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/ChaosCaching/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/UVEditor/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/UVEditor/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/UMGWidgetPreview/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/UMGWidgetPreview/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/MeshLODToolset/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/MeshLODToolset/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/TraceUtilities/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/TraceUtilities/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Fab/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Fab/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/ChaosVD/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/ChaosVD/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.20.57:794][378]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Bridge/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Users/DANNY/source/repos/UnrealRepoTest'
+[2025.11.27-23.21.07:355][378]LogSlate: Window 'Submit Files' being destroyed
+[2025.11.27-23.21.07:599][378]LogSourceControl: commit successful: [main 466b3ff] Orangecube
+[2025.11.27-23.21.07:645][378]SourceControl: [main 466b3ff] Orangecube
+[2025.11.27-23.21.07:645][378]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2025.11.27-23.21.07:664][378]SourceControl: Commited [main 466b3ff] Orangecube.
+[2025.11.27-23.21.07:685][378]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 669.640320
+[2025.11.27-23.21.08:002][384]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.27-23.21.08:003][384]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 669.911865, Update Interval: 351.882690
